@@ -2374,10 +2374,10 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gearlab-tools-pattern-library@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/gearlab-tools-pattern-library/-/gearlab-tools-pattern-library-0.2.0.tgz#18fed88239c290940f6440ee899a39d45add14c1"
-  integrity sha512-2raZEOIU5PFPpc9kfSYpFiAc/2YQfKVqSOAWuLHD5LcKykZhCzSwXMZqXHf1uzeHa4J1QlleqwAODKMC3xWZ8g==
+gearlab-tools-pattern-library@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/gearlab-tools-pattern-library/-/gearlab-tools-pattern-library-0.2.2.tgz#afa8be5b2f72064646a53d0952dd74cd743db45a"
+  integrity sha512-zLLBDO85/ggfPBBT4RdRSCXN2UBX80ZX2hH2RnVORasdvNM8KCl24bmrc8yYX5L3IDI9eS6flP6G8v/56R11/A==
   dependencies:
     prettier "^1.19.1"
     prismjs "^1.17.1"
