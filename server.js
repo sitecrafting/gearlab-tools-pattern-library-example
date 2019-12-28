@@ -31,5 +31,5 @@ app.get('/*', function(request, response) {
 
 // listen for requests :)
 const listener = app.listen(9001, function() {
-  console.log(`⚙  SUCESS! Go to http://localhost:${listener.address().port} to view the example site.`);
+  console.log(`⚙  SUCCESS! Go to http://localhost:${listener.address().port} to view the example site.`);
 });
