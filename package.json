@@ -1,0 +1,22 @@
+{
+  "name": "gearlab-tools-example",
+  "version": "0.1.0",
+  "description": "Example repo consuming the GearLab Tools Pattern Library",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gearlab-tools-pattern-library": "^0.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/preset-react": "^7.7.4",
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4"
+  }
+}
